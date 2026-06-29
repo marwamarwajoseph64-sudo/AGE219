@@ -9,8 +9,8 @@
 
 | Field | Details |
 |---|---|
-| **Author** | Marwa Joseph |
-| **Registration No.** | [Your Reg. No.] |
+| **Author** | Marwa Marwa Joseph |
+| **Registration No.** | [BPE/D/2024/0005.] |
 | **Course** | AGE 219 – Basics of Computer Programming |
 | **Instructor** | Dr. Kadeghe Fue, PhD, P.Eng (T) |
 | **Submission Date** | 2nd July 2026 |
@@ -40,6 +40,7 @@ ZONE A (Bottom)     ← moisture0
 - March harvest season readings 2015–2024
 - 4 capacitive moisture sensors per year
 - Total: 4,409 observations
+- kaggle.com
 
 ---
 
